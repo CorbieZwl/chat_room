@@ -1,0 +1,4 @@
+修改chat_client.py文件中服务器ip地址为本机ip
+启动服务端 python3 chat_server.py
+启动客户端 python3 chat_client.py
+启动多个客户端时需要复制客户端文件且修改绑定端口
